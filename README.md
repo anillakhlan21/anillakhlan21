@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @anillakhlan21
-- 👀 I’m interested in technological changes
 - 🌱 I’m currently learning web development
 - 📫 How to reach me ...
 - email - anillakhlan2107@gmail.com
